@@ -1,0 +1,10 @@
+{
+  "id": "smg_01",
+  "output": "infinitymax_combat:smg_01",
+  "energyCost": 2000,
+  "duration": 100,
+  "ingredients": [
+    {"item": "infinitymax_industry:steel_ingot", "count": 3},
+    {"item": "infinitymax_industry:electronics", "count": 2}
+  ]
+}

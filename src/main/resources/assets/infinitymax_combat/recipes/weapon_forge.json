@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ESE",
+    "SBS",
+    "ESE"
+  ],
+  "key": {
+    "E": { "item": "infinitymax_industry:electronic_circuit" },
+    "S": { "item": "infinitymax_industry:steel_block" },
+    "B": { "item": "minecraft:crafting_table" }
+  },
+  "result": {
+    "item": "infinitymax_combat:weapon_forge",
+    "count": 1
+  }
+}
