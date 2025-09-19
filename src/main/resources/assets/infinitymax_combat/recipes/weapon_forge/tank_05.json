@@ -1,0 +1,12 @@
+{
+    "id":"tank_05",
+    "output":"infinitymax_combat:tank_05",
+    "energyCost":5000,
+    "duration":100,
+    "ingredients":[
+        {"iten":"infinitymax_industry:nickel_plate","count":1},
+        {"item":"infinitymax_industry:lead_ingot","count":1},
+        {"item":"infinitymax_industry:titanium_plate","count":1},
+        {"item":"infinitymax_industry:alloy_ingot","count":7}
+    ]
+}

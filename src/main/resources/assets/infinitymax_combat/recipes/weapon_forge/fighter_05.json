@@ -1,0 +1,12 @@
+{
+    "id":"fighter_05",
+    "output":"infinitymax_combat:fighter_05",
+    "energyCost":5000,
+    "duration":100,
+    "ingredients":[
+        {"iten":"infinitymax_industry:tin_plate","count":2},
+        {"item":"infinitymax_industry:aluminum_plate","count":1},
+        {"item":"infinitymax_industry:zinc_plate","count":1},
+        {"item":"infinitymax_industry:alloy_ingot","count":7}
+    ]
+}

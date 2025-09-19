@@ -1,0 +1,10 @@
+{
+    "id":"sg_03",
+    "output":"infinitymax_combat:sg_03",
+    "energyCost":5000,
+    "duration":100,
+    "ingredients":[
+        {"iten":"infinitymax_industry:nickel_ore","count":2},
+        {"item":"infinitymax_industry:alloy_ingot","count":2}
+    ]
+}

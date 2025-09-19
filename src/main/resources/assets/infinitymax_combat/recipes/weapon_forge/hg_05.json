@@ -1,0 +1,10 @@
+{
+    "id":"hg_05",
+    "output":"infinitymax_combat:hg_05",
+    "energyCost":5000,
+    "duration":100,
+    "ingredients":[
+        {"iten":"infinitymax_industry:iron_ingot","count":4},
+        {"item":"infinitymax_industry:alloy_ingot","count":2}
+    ]
+}
